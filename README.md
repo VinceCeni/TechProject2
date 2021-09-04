@@ -1,1 +1,1 @@
-# TechProject2
+Hello and welcome to my TechProject2 project! This app allows users to do several things like placing food orders and request assistance from the Hotel front desk. Enclosed is the code I used. If you have any questions please feel free to contact me!
